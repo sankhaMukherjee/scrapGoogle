@@ -1,0 +1,10 @@
+2017-01-07 19:55:29,788 - findMeds - INFO - Program started
+2017-01-07 19:55:29,788 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [M]
+2017-01-07 19:55:29,788 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(M)]
+2017-01-07 19:55:34,967 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-07 19:55:35,088 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [M]
+2017-01-07 19:55:35,187 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [abcd]
+2017-01-07 19:55:35,187 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(abcd)]
+2017-01-07 19:55:36,118 - findMeds.readData.readPage - ERROR - Unable to read from the url[https://en.wikipedia.org/wiki/List_of_diseases_(abcd)]: [Not Found]
+2017-01-07 19:55:36,118 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning an empty list
+2017-01-07 19:55:36,118 - findMeds - INFO - Done!

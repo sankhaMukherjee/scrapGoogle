@@ -1,0 +1,5 @@
+2017-01-07 17:29:22,542 - findMeds - INFO - Program started
+2017-01-07 17:29:22,542 - findMeds.generateDiseaseList.getMainPage - INFO - Obtaining data from the main page
+2017-01-07 17:29:22,572 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_cancer_types]
+2017-01-07 17:29:25,121 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-07 17:29:25,181 - findMeds - INFO - Done!

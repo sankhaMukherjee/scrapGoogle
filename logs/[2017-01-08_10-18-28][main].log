@@ -1,0 +1,109 @@
+2017-01-08 10:18:28,437 - findMeds - INFO - Program started
+2017-01-08 10:18:28,437 - findMeds.generateDiseaseList.getMedicationList - INFO - Obtaining diseases for all characters
+2017-01-08 10:18:28,437 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [A]
+2017-01-08 10:18:28,437 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(A)]
+2017-01-08 10:18:29,934 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:30,043 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [A]
+2017-01-08 10:18:30,043 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [B]
+2017-01-08 10:18:30,043 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(B)]
+2017-01-08 10:18:31,135 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:31,213 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [B]
+2017-01-08 10:18:31,213 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [C]
+2017-01-08 10:18:31,213 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(C)]
+2017-01-08 10:18:32,805 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:32,976 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [C]
+2017-01-08 10:18:32,976 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [D]
+2017-01-08 10:18:32,976 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(D)]
+2017-01-08 10:18:34,318 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:34,381 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [D]
+2017-01-08 10:18:34,381 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [E]
+2017-01-08 10:18:34,381 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(E)]
+2017-01-08 10:18:35,457 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:35,519 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [E]
+2017-01-08 10:18:35,535 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [F]
+2017-01-08 10:18:35,535 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(F)]
+2017-01-08 10:18:36,611 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:36,690 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [F]
+2017-01-08 10:18:36,690 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [G]
+2017-01-08 10:18:36,690 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(G)]
+2017-01-08 10:18:37,953 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:38,030 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [G]
+2017-01-08 10:18:38,030 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [H]
+2017-01-08 10:18:38,030 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(H)]
+2017-01-08 10:18:39,342 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:39,482 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [H]
+2017-01-08 10:18:39,482 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [I]
+2017-01-08 10:18:39,482 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(I)]
+2017-01-08 10:18:40,558 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:40,605 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [I]
+2017-01-08 10:18:40,605 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [J]
+2017-01-08 10:18:40,605 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(J)]
+2017-01-08 10:18:41,509 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:41,540 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [J]
+2017-01-08 10:18:41,540 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [K]
+2017-01-08 10:18:41,540 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(K)]
+2017-01-08 10:18:42,618 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:42,680 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [K]
+2017-01-08 10:18:42,680 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [L]
+2017-01-08 10:18:42,680 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(L)]
+2017-01-08 10:18:43,772 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:43,865 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [L]
+2017-01-08 10:18:43,865 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [M]
+2017-01-08 10:18:43,865 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(M)]
+2017-01-08 10:18:45,237 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:45,362 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [M]
+2017-01-08 10:18:45,362 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [N]
+2017-01-08 10:18:45,362 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(N)]
+2017-01-08 10:18:47,609 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:47,655 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [N]
+2017-01-08 10:18:47,655 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [O]
+2017-01-08 10:18:47,655 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(O)]
+2017-01-08 10:18:49,388 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:49,450 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [O]
+2017-01-08 10:18:49,450 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [P]
+2017-01-08 10:18:49,450 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(P)]
+2017-01-08 10:18:51,805 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:51,914 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [P]
+2017-01-08 10:18:51,914 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [Q]
+2017-01-08 10:18:51,914 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(Q)]
+2017-01-08 10:18:52,819 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:52,851 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [Q]
+2017-01-08 10:18:52,851 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [R]
+2017-01-08 10:18:52,851 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(R)]
+2017-01-08 10:18:54,566 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:54,644 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [R]
+2017-01-08 10:18:54,644 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [S]
+2017-01-08 10:18:54,644 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(S)]
+2017-01-08 10:18:57,062 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:57,171 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [S]
+2017-01-08 10:18:57,171 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [T]
+2017-01-08 10:18:57,171 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(T)]
+2017-01-08 10:18:58,763 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:58,825 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [T]
+2017-01-08 10:18:58,825 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [U]
+2017-01-08 10:18:58,825 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(U)]
+2017-01-08 10:18:59,887 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:18:59,917 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [U]
+2017-01-08 10:18:59,917 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [V]
+2017-01-08 10:18:59,917 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(V)]
+2017-01-08 10:19:01,197 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:19:01,243 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [V]
+2017-01-08 10:19:01,243 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [W]
+2017-01-08 10:19:01,243 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(W)]
+2017-01-08 10:19:02,507 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:19:02,553 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [W]
+2017-01-08 10:19:02,553 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [X]
+2017-01-08 10:19:02,553 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(X)]
+2017-01-08 10:19:03,631 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:19:03,661 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [X]
+2017-01-08 10:19:03,661 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [Y]
+2017-01-08 10:19:03,661 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(Y)]
+2017-01-08 10:19:04,737 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:19:04,753 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [Y]
+2017-01-08 10:19:04,753 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Obtaining Medications for the character [Z]
+2017-01-08 10:19:04,753 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/List_of_diseases_(Z)]
+2017-01-08 10:19:05,674 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-08 10:19:05,690 - findMeds.generateDiseaseList.getAlphabeticList - INFO - Returning Medications for the character [Z]
+2017-01-08 10:19:05,690 - findMeds.generateDiseaseList.getMedicationList - INFO - Returning disease list
+2017-01-08 10:19:05,690 - findMeds.generateDiseaseList.saveDiseaseList - INFO - Saving
+2017-01-08 10:19:05,720 - findMeds - INFO - Done!

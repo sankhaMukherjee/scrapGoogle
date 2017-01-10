@@ -1,0 +1,10 @@
+2017-01-07 17:00:42,309 - findMeds - INFO - Program started
+2017-01-07 17:00:42,309 - findMeds.generateDiseaseList.getMainPage - INFO - Obtaining data from the main page
+2017-01-07 17:00:42,309 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/Lists_of_diseases]
+2017-01-07 17:00:44,071 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-07 17:00:44,105 - findMeds - INFO - Done!
+2017-01-07 17:01:25,700 - findMeds - INFO - Program started
+2017-01-07 17:01:25,701 - findMeds.generateDiseaseList.getMainPage - INFO - Obtaining data from the main page
+2017-01-07 17:01:25,701 - findMeds.readData.readPage - INFO - Attempting to read URL[https://en.wikipedia.org/wiki/Lists_of_diseases]
+2017-01-07 17:01:26,579 - findMeds.readData.readPage - INFO - Able to read data.
+2017-01-07 17:01:26,615 - findMeds - INFO - Done!
